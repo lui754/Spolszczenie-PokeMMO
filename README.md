@@ -2,6 +2,8 @@
 ### Spolszczenie do Fabuły PokeMMO ####
 #######################################
 
+test
+
 
 ###########################################################################################
 ** Autorem spolszczenia do PokeMMO jest LukaszX z drużyny [KULT].
