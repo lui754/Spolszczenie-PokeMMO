@@ -3987,7 +3987,7 @@
 	<string block_id="0" entry_id="1158" table_id="14">{00} przeciwnika jest\nraniony przez morze ognia!</string>
 	<string block_id="0" entry_id="0" table_id="15">●●</string>
 	<string block_id="0" entry_id="1" table_id="15">{00}!<!--Pojawia się dziki {00}!--></string>
-	<string block_id="0" entry_id="2" table_id="15">{00} i {01}!</string>
+	<string block_id="0" entry_id="2" table_id="15">Och! Pojawiają się dzikie {00} i\n{01}!</string>
 	<string block_id="0" entry_id="3" table_id="15">{00}!<!--Pojawia się dziki {00}!--></string>
 	<string block_id="0" entry_id="4" table_id="15">{00}!<!--Pojawia się dziki {00}!--></string>
 	<string block_id="0" entry_id="5" table_id="15">Pojawia się {00}, którego twój\nPokémon widział we śnie!</string>
@@ -4028,10 +4028,8 @@
 	<string block_id="0" entry_id="39" table_id="15">Pokémon(y) {00}\nobrócił(y) się w lewo!</string>
 	<string block_id="0" entry_id="40" table_id="15">Pokémon(y) {00}\nobrócił(y) się w prawo!</string>
 	<string block_id="0" entry_id="41" table_id="15">Pokémon(y) {00}\nobrócił(y) się w prawo!</string>
-	<!--<string block_id="0" entry_id="42" table_id="15">{00} zyskuje\n{01} Punktów Doświadczenia!</string>
-	<string block_id="0" entry_id="43" table_id="15">{00} zyskuje wzmocnione\n{01} Punktów Doświadczenia!</string>-->
-	<string block_id="0" entry_id="42" table_id="15">{09}</string>
-	<string block_id="0" entry_id="43" table_id="15">{09}</string>
+	<string block_id="0" entry_id="42" table_id="15">{00} zyskuje\n{01} Punktów Doświadczenia!</string>
+	<string block_id="0" entry_id="43" table_id="15">{00} zyskuje wzmocnione\n{01} Punktów Doświadczenia!</string>
 	<string block_id="0" entry_id="44" table_id="15">Gracz pokonuje\n{00} {01}!</string>
 	<string block_id="0" entry_id="45" table_id="15">Gracz pokonuje przeciwników:\n{00} {01}\n\noraz {02} {03}!</string>
 	<string block_id="0" entry_id="46" table_id="15">Gracz przegrywa z\n{00} {01}!</string>
@@ -4048,8 +4046,7 @@
 	<string block_id="0" entry_id="57" table_id="15">{00} przegrywa!</string>
 	<string block_id="0" entry_id="58" table_id="15">{00} zdobywa ${01}\nw nagrodę za wygraną!</string>
 	<string block_id="0" entry_id="59" table_id="15">{00} podnosi\n${01}!</string>
-	<!--<string block_id="0" entry_id="60" table_id="15">{00} uzyskuje\n{01} Poziom Doświadczenia!</string>-->
-	<string block_id="0" entry_id="60" table_id="15">{09}</string>
+	<string block_id="0" entry_id="60" table_id="15">{00} uzyskuje\n{01} Poziom Doświadczenia!</string>
 	<string block_id="0" entry_id="61" table_id="15">Och, nie!\nPokémon się wymknął!</string>
 	<string block_id="0" entry_id="62" table_id="15">Aww!\nWyglądał na złapanego!</string>
 	<string block_id="0" entry_id="63" table_id="15">Aargh!\nJuż prawie!</string>

@@ -314,7 +314,7 @@
     <string id="1521979">Ssh...!\nJestem agentem POLICJI.\n\nJestem na tropie ZESPOŁU R!\nKnują coś niedobrego!</string>
     <string id="1522073">Kocham POKéMONY!\nA ty?</string>
     <string id="1522097">Łoł! \nPanujesz!</string>
-    <string id="1522117">Słucha, słuchaj!\nBędę twoim kumplem, okej?\n\nBędziemy mogli się wymieniać i\ntakie tam.</string>
+    <string id="1522117">Słuchaj, słuchaj!\nBędę twoim kumplem, okej?\n\nBędziemy mogli się wymieniać i\ntakie tam.</string>
     <string id="1522202">Zebrałam te POKéMONY z\nterenów całego świata!</string>
     <string id="1522255">Och nie!\nI na co mi to wszystko było!</string>
     <string id="1522298">Zraniłeś moje POKéMONY!\n\nŻądam, byś wyleczył je w CENTRUM\nPOKéMONÓW!</string>
@@ -546,7 +546,7 @@
     <string id="1532996">ZESPÓŁ R poszukiwał MASTER BALLA,\nktóry łapie każdego POKéMONA.</string>
     <string id="1533062">Anulowaliśmy projekt MASTER\nBALLA z powodu ZESPOŁU R.</string>
     <string id="1533122">Byłoby źle, gdyby ZESPÓŁ R\nprzejął SILPH albo nasze POKéMONY!</string>
-    <string id="1533185">Łoł!\n\nPrzegoniłeś ZESPÓŁ R całkiem\nsam?</string>
+    <string id="1533185">Łoł!\n\nPrzegoniłeś ZESPÓŁ R całkiem\nsam?\nJesteś z drużyny Kultu?</string>
     <string id="1533234">Ty!\nTu jest bardzo niebezpiecznie!\n\nPrzybyłeś mnie\nocalić? Nie!</string>
     <string id="1533299">Dziękuję bardzo!</string>
     <string id="1533318">Uch-och!\nCzuję małą myszkę!</string>
@@ -2165,10 +2165,10 @@
     <string id="1632741">To coś jak encyklopedia, tylko z\npustymi stronami.</string>
     <string id="1632793">To są POKé BALLE.\nZawierają POKéMONY!</string>
     <string id="1632837">To ostatni POKéMON PROF. OAKA.</string>
-    <string id="1632870">Przycisk START włącza MENU!</string>
-    <string id="1632900">Opcja ZAPISU znajduje się w MENU.\nUżywaj jej!</string>
+    <string id="1632870">Polski team KULT rekrutuje!\nZapytaj o nas na czacie globalnym!</string>
+    <string id="1632900">Targ odblokowuje się po zdobyciu.\nczterech odznak!</string>
     <string id="1632950">Wszystkie typy POKéMONÓW mają\nsilne i słabe strony w walce.</string>
-    <string id="1633012">Na ekranie wyświetlony jest\ne-mail.\n\n...\n\nNareszcie!\nNajlepsi TRENERZY\n\nLIGI POKéMON gotowi są przyjąć\n\nwszystkich chętnych!\n\nWeź swe najlepsze POKéMONY\ni zobacz jakim jesteś TRENEREM!\n\nLIGA POKéMON \nBŁĘKITNY PŁASKOWYŻ\n\nPROF. OAK, prosimy o wizytę!\n...</string>
+    <string id="1633012">Na ekranie wyświetlony jest e-mail:\n\nDrogi Profesorze! Pamiętam jakby to było wczoraj,\npodarowałeś mi pokemona.\n\n Charmander ewoluował w końcu w Chalizarda,\na ja zostałem Mistrzem Ligii Pokemon Kanto.\n\nTeraz podróżuję po innych regionach.\n\nZwiedziłem już Jotho, Shinnoh i Unove, zdobyłem odznaki,\nrozwiązywałem tajemnice.\n\nNadal nie zapomniałem o powierzonej mi misji,\n wciąż uzupełniam Nationaldexa!\n\nDołączyłem do teamu KULT, by zwiekszyć swoją siłę.\nZ serdecznymi pozdrowieniami, Szuwarek.</string>
     <string id="1633254">Jestem POMOCNIKIEM PROFESORA\nOAKA.</string>
     <string id="1633291">Hej, {01}. Pewnie\nzaprzyjaźniłeś się już ze swoimi\nPOKéMONAMI.\n\nPrzy okazji, wiesz, o\nDAISY?\n\nJeśli pokażesz jej swoje POKéMONY,\npowie ci, jak bardzo cię lubią.\n\nCzasami nawet uczesze je\ndla ciebie!\n\nTo tajemnica, więc lepiej\nnie mów o tym nikomu, ok?</string>
     <string id="1633557">PROF. OAK będzie miał swój własny\nprogram w radiu.\n\nBędzie się nazywał KONWERSATORIUM\nPOKéMON OAKA.</string>

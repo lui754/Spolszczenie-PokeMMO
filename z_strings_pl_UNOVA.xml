@@ -38,16 +38,16 @@
 			<string block_id="0" entry_id="7" table_id="346">Dziękujemy za cierpliwość.\n\nPrzywróciliśmy twoje Pokémony do\npełni sił.\n\n</string>
 			<string block_id="0" entry_id="8" table_id="346">Do widzenia i miłego dnia!</string>
 			<string block_id="0" entry_id="9" table_id="346">Witamy w Centrum Pokémon.\n\nMożemy tutaj przywrócić twoje zmęczone\nPokémony do pełni sił.\n\nCzy chcesz...\n\n</string>-->
-			<string block_id="0" entry_id="0" table_id="346">\n</string>
-			<string block_id="0" entry_id="1" table_id="346">\n</string>
-			<string block_id="0" entry_id="2" table_id="346">\n</string>
-			<string block_id="0" entry_id="3" table_id="346">\n</string>
-			<string block_id="0" entry_id="4" table_id="346">\n</string>
-			<string block_id="0" entry_id="5" table_id="346">\n</string>
-			<string block_id="0" entry_id="6" table_id="346">\n</string>
-			<string block_id="0" entry_id="7" table_id="346">\n</string>
-			<string block_id="0" entry_id="8" table_id="346">\n</string>
-			<string block_id="0" entry_id="9" table_id="346">\n</string>
+			<string block_id="0" entry_id="0" table_id="346"> </string>
+			<string block_id="0" entry_id="1" table_id="346"> </string>
+			<string block_id="0" entry_id="2" table_id="346"> </string>
+			<string block_id="0" entry_id="3" table_id="346"> </string>
+			<string block_id="0" entry_id="4" table_id="346"> </string>
+			<string block_id="0" entry_id="5" table_id="346"> </string>
+			<string block_id="0" entry_id="6" table_id="346"> </string>
+			<string block_id="0" entry_id="7" table_id="346"> </string>
+			<string block_id="0" entry_id="8" table_id="346"> </string>
+			<string block_id="0" entry_id="9" table_id="346"> </string>
 		<!-- Unova - Nurse Mom -->
 			<!--<string block_id="0" entry_id="14" table_id="429">Mama: Zastanawiam się, dokąd teraz\npójdziesz i jakie Pokémony spotkasz.</string>
 			<string block_id="0" entry_id="15" table_id="429">Mama: {00}!\nJak tam twoje Pokémony?\n\nPowinieneś trochę odpocząć!\n\nDobrzy Trenerzy nie przeforsowują\nswoich Pokémonów.\n\n</string>
@@ -76,8 +76,8 @@
 			<!--<string block_id="0" entry_id="7" table_id="426">{00} otrzymuje Jajo od\nOpiekuna.</string>
 			<string block_id="0" entry_id="8" table_id="426">Dobrze się nim zaopiekuj.</string>
 			<string block_id="0" entry_id="9" table_id="426">Nie masz na nie teraz miejsca...\nWróć, kiedy zrobisz trochę miejsca.</string>-->
-			<string block_id="0" entry_id="7" table_id="426">\n<!-- received egg --></string>
-			<string block_id="0" entry_id="8" table_id="426">\n<!-- take care --></string>
+			<string block_id="0" entry_id="7" table_id="426"> <!-- received egg --></string>
+			<string block_id="0" entry_id="8" table_id="426"> <!-- take care --></string>
 			<string block_id="0" entry_id="9" table_id="426">Drużyna jest pełna.</string>
 		<!-- HMs -->
 		    <!--<string block_id="0" entry_id="0" table_id="280">To drzewko da się ściąć! \nCzy chcesz ściąć to drzewko?</string>
@@ -100,18 +100,18 @@
 			<string block_id="0" entry_id="30" table_id="280">To głęboka część morza, ale Pokémon\nmoże być w stanie tutaj zanurkować.</string>
 			<string block_id="0" entry_id="31" table_id="280">To głęboka część morza.\nCzy chcesz użyć Nurkowania?</string>
 			<string block_id="0" entry_id="32" table_id="280">{00} używa Nurkowania!\n\n</string>-->
-			<string block_id="0" entry_id="0" table_id="280">\n<!--Cut?--></string>
+			<string block_id="0" entry_id="0" table_id="280">Cut?</string>
 			<string block_id="0" entry_id="1" table_id="280"> <!-- used cut --></string>
 			<string block_id="0" entry_id="2" table_id="280">Brak Cut.</string>
-			<string block_id="0" entry_id="6" table_id="280">\n<!--Strength?--></string>
+			<string block_id="0" entry_id="6" table_id="280">Strength?</string>
 			<string block_id="0" entry_id="8" table_id="280">Brak Strength.</string>
 			<string block_id="0" entry_id="9" table_id="280"> <!-- strength enabled --></string>
 			<string block_id="0" entry_id="10" table_id="280"> <!-- used strength --></string>
 			<string block_id="0" entry_id="11" table_id="280"> <!-- strength enabled --></string>
-			<string block_id="0" entry_id="13" table_id="280">\n<!--Surf?--></string>
+			<string block_id="0" entry_id="13" table_id="280">Surf?</string>
 			<string block_id="0" entry_id="14" table_id="280"> <!-- used surf --></string>
 			<string block_id="0" entry_id="15" table_id="280">Surf nie może zostać użyte,\nkiedy ktoś ci towarzyszy.</string>
-			<string block_id="0" entry_id="23" table_id="280">\n<!--Waterfall?--></string>
+			<string block_id="0" entry_id="23" table_id="280">Waterfall?</string>
 			<string block_id="0" entry_id="24" table_id="280"> <!-- used waterfall --></string>
 			<string block_id="0" entry_id="25" table_id="280">Brak Waterfall.</string>
 			<string block_id="0" entry_id="31" table_id="280">Dive?</string>
@@ -148,10 +148,10 @@
 			<string block_id="0" entry_id="11" table_id="53">Precyzyjnie analizujesz swoje walki.\n\nPrzegrałem, ale sporo się od ciebie\nnauczyłem.\n\nPoza tym, całkiem dobrze się bawiłem!\n\nPrzyjdź tutaj z powrotem jutro.</string>
 			<string block_id="0" entry_id="12" table_id="53">Nie?\n\nTrenowałem Pokémony z myślą o ich\nZdolnościach i optymalnej\n\nkombinacji przedmiotów.\n\nJaka szkoda...\n</string>-->
 			<string block_id="0" entry_id="8" table_id="261">Piętro?<!-- Elevator --></string>
-			<string block_id="0" entry_id="9" table_id="53">Walka?<!-- Challenge --></string>
+			<string block_id="0" entry_id="9" table_id="53">bbyczkk: Udało mi się pokonać BartkaDolara. W końcu!\nZarobiłem za tą walkę małą fortunę!\n\nbbyczkk: Co? Chcesz o nią zawalczyć? Chodź!<!-- Challenge --></string>
 			<string block_id="0" entry_id="10" table_id="53"> <!-- Yes --></string>
 			<string block_id="0" entry_id="12" table_id="53">Dobra Nara!<!-- No --></string>
-			<string block_id="0" entry_id="11" table_id="53">Trwa Cooldown..</string>
+			<string block_id="0" entry_id="11" table_id="53">bbyczkk: To  była dobra walka! \nTwoje pokemony są silne,\n\nbbyczkk: Wróć jutro, muszę zebrać pieniądze na Bartku!\n\nBartekDolar: Chyba śnisz... Walczmy!\n\nRanbon: No i znowu się zaczyna... </string>
 		<!-- Gym Leaders -->
 		<!-- Unova - Striaton City - Chili (fire) -->
 			<!--<string block_id="0" entry_id="11" table_id="12">Yeeeeooow!\n\nCzas na zabawę OGNIEM!!\nJestem najsilniejszym z naszych braci!\n\n</string>
@@ -305,9 +305,9 @@
     <string block_id="0" entry_id="32" table_id="0">I jak?\nZnalazłeś dla mnie coś fajnego?\n\n...Nie. Nic ciekawego w twojej Torbie.\nNo cóż. Może następnym razem!</string>
     <string block_id="0" entry_id="0" table_id="1">GRACZ: {00}</string>
     <string block_id="0" entry_id="1" table_id="1">Ten dokument potwierdza, że\ndokonałeś wielkiego osiągnięcia,\njakim jest złapanie wszystkich\nPokémonów w regionie Unova.</string>
-    <string block_id="0" entry_id="3" table_id="1">Cały personel\nGAME FREAK</string>
+    <string block_id="0" entry_id="3" table_id="1">Cały personel\nTEAM KULT</string>
     <string block_id="0" entry_id="4" table_id="1">GRACZ: {00}</string>
-    <string block_id="0" entry_id="5" table_id="1">Cały personel\nGAME FREAK</string>
+    <string block_id="0" entry_id="5" table_id="1">Cały personel\nTEAM KULT</string>
     <string block_id="0" entry_id="6" table_id="1">Ten dokument potwierdza,\nże z powodzeniem\nskompletowałeś swój\nNarodowy Pokédex.</string>
     <string block_id="0" entry_id="1" table_id="2">Leo: Sprawdź mnie! Zachwyt tym\nwielkim miastem uczynił mnie silniejszym!\n\n</string>
     <string block_id="0" entry_id="2" table_id="2">Zdaje się, że nie byłem wystarczająco\nnakręcony...\n\nPotrzebuję trochę bardziej miejskiej\natmosfery.</string>
@@ -1135,7 +1135,7 @@
     <string block_id="0" entry_id="17" table_id="38">Anuluj</string>
     <string block_id="0" entry_id="18" table_id="38">Studio Castelia</string>
     <string block_id="0" entry_id="19" table_id="38">Słynne Rożki Castelia\nZamknięte na czas zimy</string>
-    <string block_id="0" entry_id="0" table_id="39">GAME FREAK</string>
+    <string block_id="0" entry_id="0" table_id="39">TEAM KULT</string>
     <string block_id="0" entry_id="0" table_id="40">Gdzie to ja położyłem te okulary\nprzeciwsłoneczne?\n\n</string>
     <string block_id="0" entry_id="1" table_id="40">Ach, znalazłem.\n\nNaprawdę potrzebujesz więcej światła,\nżeby widzieć drogę przed sobą. \n\nWeź to--pomoże ci lepiej widzieć w\nzaciemnionych miejscach.\n\n</string>
     <string block_id="0" entry_id="2" table_id="40">Miał!\nJak mnie znalazłeś?!\n\nNie jesteś zwyczajny!\nDlatego dam ci coś. Trzymaj!\n\n</string>
@@ -1667,19 +1667,19 @@
     <string block_id="0" entry_id="28" table_id="52">Wygląda na to, że Zorua i Celebi są\ndobrymi kolegami!\n\nJestem pewna, że Zorua chce podążać\nza tobą i Celebim!\n\n...Ale czy masz miejsce na Zoruę\nw swojej drużynie?\n\nNie możesz mieć przy sobie więcej niż\nsześć Pokémonów. Mam rację?\n\n</string>
     <string block_id="0" entry_id="29" table_id="52">Wygląda na to, że Zorua i Celebi są\ndobrymi kolegami!\n\nJestem pewna, że Zorua chce podążać\nza tobą i Celebim!\n\n...Ale czy masz miejsce na Zoruę\nw swojej drużynie?\n\nNie możesz mieć przy sobie więcej niż\nsześć Pokémonów. Mam rację?\n\n</string>
     <string block_id="0" entry_id="30" table_id="52">Czy chcesz dać ksywkę Zorule,\nktóry dołączył do twojej drużyny?</string>
-    <string block_id="0" entry_id="0" table_id="53">Cześć!\nJestem Reżyserem Gry.\n\nOch! Pracujesz nad swoim Pokédexem!\nPrzyjdź do mnie, kiedy uda ci się go\n\nwypełnić!</string>
-    <string block_id="0" entry_id="1" table_id="53">Cześć!\nJestem Reżyserem Gry.\n\nOch! Złapałeś każdy gatunek Pokémona\nw Unovie!\n\nŁał! Doskonale!\nOtrzymasz od nas nagrodę!!\n\n</string>
-    <string block_id="0" entry_id="2" table_id="53">Wyślę ten specjalny certyfikat do\ntwojego domu!</string>
-    <string block_id="0" entry_id="3" table_id="53">Cześć!\nJestem Reżyserem Gry.\n\nOch! Wspaniale! W końcu udało ci się\nzłapać wszystkie Pokémony i wypełnić\n\nswój Pokédex!\n\nBy uhonorować twoje starania w\nwypełnianiu tego Pokédexu...\n\nPozwól, że wręczę ci tę oto nagrodę!\n\n</string>
-    <string block_id="0" entry_id="4" table_id="53">Jak udało ci się spotkać te wszystkie\nPokémony wypełniające twój Pokédex?\n\nPracowałeś długo i ciężko, żeby je\nzłapać i wytrenować?\n\nDostałeś je jako prezenty od\nswoich przyjaciół?\n\nA może otrzymałeś je w wymianach\nz różnych części świata?\n\nMimo że każdy Pokédex może wyglądać na\ntaki sam, każdy z nich skrywa unikatową\n\nhistorię!</string>
+    <string block_id="0" entry_id="0" table_id="53">FightingKebab: Cześć! jestem szefem TEAMU KULT.\n\nTo najstarszy i najbardziej doświadczony polski team w PokeMMO.\n\nFightingKebab:Członków teamu możesz spotkać w różnych \nregionach.\n\nZajmujemy się różnymi rzeczami.\n\nChcesz do nas dołączyć?\n\nSuper! Napisz na czacie globalnym, że szukasz Teamu Kult!\n\nFightingKebab: Ah! Wróć do mnie, gdy skompletujesz Pokedex regionu \nUnova. \n\nDostaniesz nagrodę!</string>
+    <string block_id="0" entry_id="1" table_id="53">FightingKebab: Godne podziwu! Takich ludzi potrzebujemy w Kulcie!\n\nZłapałeś każdy gatunek Pokémona\nw regionie Unova!\n\nPora ciebie nagrodzić!\n\n</string>
+    <string block_id="0" entry_id="2" table_id="53">FightingKebab: Wyślę ten specjalny certyfikat do\ntwojego domu!</string>
+    <string block_id="0" entry_id="3" table_id="53">FightingKebab: Jesteś niesamowitą personą...\n\n Mało komu udało się skompletować całego Nationaldex'a\n\nTwoje dokonanie nie obędzie się bez echa!\n\n</string>
+    <string block_id="0" entry_id="4" table_id="53">FightingKebab: Ty i twoje pokemony tworzycie wspaniałą paczkę.\nTaką samą paczką jest TEAM KULT.\n\nZa Twoje dokonania chce Ci coś powiedzieć\n\nPamiętaj, że masz przyjaciela w TEAMIE KULTU.</string>
     <string block_id="0" entry_id="5" table_id="53">Wyślę ten specjalny certyfikat do\ntwojego domu!</string>
-    <string block_id="0" entry_id="6" table_id="53">Uwaga na spoilery! Pracuję nad\nzakończeniem gry.\n\nNie patrz w tę stronę! Będziesz musiał\nzobaczyć je na własną rękę.</string>
-    <string block_id="0" entry_id="7" table_id="53">Jestem Projektantem Graficznym. \nPoświęcam całą swoją energię aż do\n\nostatniej kropki! Hup! Powinienem\n\npostawić jedną kropkę tutaj, żeby\n\nstworzyć wrażenie pustki!</string>
-    <string block_id="0" entry_id="8" table_id="53">Porada, żeby stać się silniejszym\nw walkach Pokémon...\n\nNiech pomyślę.\nWydaje mi się, że najważniejsze to...\n\ndużo walczyć!\n\nKiedy staniesz się bardzo silny, wróć\ntutaj i stocz ze mną walkę Pokémon!</string>
-    <string block_id="0" entry_id="13" table_id="53">Oto ja, Snorlax.\n\nNie, nie. Oto ja, Planista!\n\nNie chcę się wtrącać, ale Resztki\nJedzenia są bardzo ważnym przedmiotem,\n\nnieprawdaż?</string>
-    <string block_id="0" entry_id="14" table_id="53">Jestem Projektantem Dźwięku!\n\nWykorzystałem wiele cudownych\nmechanizmów, by zmienić muzykę w grze!\n\nJak wiele z nich zauważyłeś?</string>
-    <string block_id="0" entry_id="15" table_id="53">Widzę, że traktujesz ścieżkę dźwiękową\npoważnie, dlatego mam dla ciebie\n\nniespodziankę!\n\nCo sądzisz o tym dramatycznym\ndźwięku?\n\n</string>
-    <string block_id="0" entry_id="16" table_id="53">Zaskoczony?\n\nCóż, dla takiego silnego Trenera jak ty,\nzwycięstwo nad Zespołem Rocket\n\nbyłoby jak bułka z masłem!</string>
+    <string block_id="0" entry_id="6" table_id="53">Lukaszx: Cześć! Właśnie pracuję nad spolszczeniem\n każdego regionu w PokeMMO.\n\nPomagają mi przy tym członkowie naszego Teamu.\n\nPytasz od jak dawna?\n\nOd niedawna, ale zajebiście się wkręciłem.</string>
+    <string block_id="0" entry_id="7" table_id="53">Amplifikuje: Pracuję nad witaminami pokemon.\n\nWiesz, że mogą znacznie wzmocnić woją drużynę?\nPrzeczytasz o tym w mojej książce.\n\nMożna ją kupić w księgarniach.\n\nAmplifikuje: A właśnie! Poznałeś już resztę Kultu?\n\nPogadaj z moimi kolegami!</string>
+    <string block_id="0" entry_id="8" table_id="53">bbyczkk: Nie zawracaj mi teraz głowy,\nobmyślam skład do pojedynku z BartkiemDolarem.\n\nWróć do mnie, gdy staniesz się jednością ze swoimi pokemonami.</string>
+    <string block_id="0" entry_id="13" table_id="53">Ranbon: W kilka osób pracujemy nad polonizacją gry.\nNadal zostaje wiele do zrobienia. \n\nSzuwarek dłubie coś tam w Hoenn, \nŁukaszx ciągle krzyczy za plikami na githubie.</string>
+    <string block_id="0" entry_id="14" table_id="53">BartekDolar: Tęsknię za Szuwarkiem, \nwyruszył w dalszą podróż.\n\n By nie myśleć ciągle o nim, \ntoczę pojedynki z bbyczqiem.</string>
+    <string block_id="0" entry_id="15" table_id="53">BartekDolar: Nikt w tym mieście nie wydoił bbyczqa lepiej niż ja.\n\n Spróbuj! Zobaczymy czy masz jaja.</string>
+    <string block_id="0" entry_id="16" table_id="53">BartekDolar: Ranbon zwany Rabarbarem...\n\nTak kiedyś powiedział Szuwarek! Haha </string>
     <string block_id="0" entry_id="0" table_id="54">Jestem Wróżbitką Uczuć.\n\nSłyszałam, że wiele osób sprawdza\nswoje emocje używając C-Geara.</string>
     <string block_id="0" entry_id="1" table_id="54">Jestem Wróżbitką Uczuć.\n\nZ wyników twoich Kontroli Uczuć\nmogę wywróżyć, kto jest twoją szczęśliwą\n\nosobą na dzisiaj!\n\nJesteś zainteresowany?\nChcesz poznać swoją szczęśliwą osobę?</string>
     <string block_id="0" entry_id="2" table_id="54">Osoba, która może cię dzisiaj wyjątkowo\nuszczęśliwić...\n\nTo {00}!</string>
@@ -3223,10 +3223,10 @@
     <string block_id="0" entry_id="38" table_id="159">Widzę!</string>
     <string block_id="0" entry_id="39" table_id="159">Jak to jest?</string>
     <string block_id="0" entry_id="40" table_id="159">Cześć!</string>
-    <string block_id="0" entry_id="41" table_id="159">...?</string>
+    <string block_id="0" entry_id="41" table_id="159">Team Kult rekrutuje!</string>
     <string block_id="0" entry_id="42" table_id="159">Auć...</string>
     <string block_id="0" entry_id="43" table_id="159">Cześć!</string>
-    <string block_id="0" entry_id="44" table_id="159">!!</string>
+    <string block_id="0" entry_id="44" table_id="159">Team Kult rekrutuje?!</string>
     <string block_id="0" entry_id="45" table_id="159">Głodny...</string>
     <string block_id="0" entry_id="46" table_id="159">Raz, dwa...</string>
     <string block_id="0" entry_id="47" table_id="159">Co?</string>

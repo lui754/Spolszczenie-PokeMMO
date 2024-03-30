@@ -74,7 +74,7 @@
 			<!--<string block_id="0" entry_id="0" table_id="211">Wygląda na to, że to drzewo da się\nściąć! Czy chcesz to zrobić? </string>
 			<string block_id="0" entry_id="1" table_id="211">{00} używa Cięcia!\n\n</string>
 			<string block_id="0" entry_id="2" table_id="211">Wygląda na to, że to drzewo da się\nściąć!</string>-->
-			<string block_id="0" entry_id="0" table_id="211">\n<!--Cut?--></string>
+			<string block_id="0" entry_id="0" table_id="211">Cut?</string>
 			<string block_id="0" entry_id="1" table_id="211"> <!-- Used Cut --></string>
 			<string block_id="0" entry_id="2" table_id="211">Brak Cut!</string>
 		<!-- Rock Smash -->
@@ -82,7 +82,7 @@
 			<string block_id="0" entry_id="4" table_id="211">To nadkruszony kamień. Może Pokémon\nbyłby w stanie go rozbić?</string>
 			<string block_id="0" entry_id="5" table_id="211">{00} używa Łupacza Kamieni!\n\n</string>
 			<string block_id="0" entry_id="6" table_id="211">{01} był między odłamkami!\n\n</string>-->
-			<string block_id="0" entry_id="3" table_id="211">\n<!--Rock Smash?--></string>
+			<string block_id="0" entry_id="3" table_id="211">Rock Smash?</string>
 			<string block_id="0" entry_id="4" table_id="211">Brak Rock Smash!</string>
 			<string block_id="0" entry_id="5" table_id="211"> <!-- Used Rock Smash --></string>
 			<string block_id="0" entry_id="6" table_id="211">{01} !!!</string>
@@ -94,7 +94,7 @@
 			<string block_id="0" entry_id="11" table_id="211">{00} używa Strength!\n\n</string>
 			<string block_id="0" entry_id="12" table_id="211">Strength pozwala przesuwać kamienie.</string>
 			<string block_id="0" entry_id="13" table_id="211">Głaz spadł!</string>-->
-			<string block_id="0" entry_id="7" table_id="211">\n<!--Strength?--></string>
+			<string block_id="0" entry_id="7" table_id="211">Strength?</string>
 			<string block_id="0" entry_id="8" table_id="211"> <!-- Used Strength {00} --></string>
 			<string block_id="0" entry_id="9" table_id="211">Brak Strength!</string>
 			<string block_id="0" entry_id="10" table_id="211"> </string>
@@ -105,7 +105,7 @@
 			<!--<string block_id="0" entry_id="14" table_id="211">Woda jest tu spokojna...\nCzy chcesz użyć Surf?</string>
 			<string block_id="0" entry_id="15" table_id="211">{00} używa Surf!\n\n</string>
 			<string block_id="0" entry_id="16" table_id="211">Nie można Surfować, gdy jest się\nw towarzystwie.</string>-->
-			<string block_id="0" entry_id="14" table_id="211">\n<!--Surf?--></string>
+			<string block_id="0" entry_id="14" table_id="211">Surf?</string>
 			<string block_id="0" entry_id="15" table_id="211"> <!-- Used Surf --></string>
 			<string block_id="0" entry_id="16" table_id="211">Brak Surf</string>
 		<!-- Defog -->
@@ -120,7 +120,7 @@
 			<string block_id="0" entry_id="21" table_id="211">{00} używa Rock Climb!\n\n</string>
 			<string block_id="0" entry_id="22" table_id="211">To bardzo skalista ściana...\nCzy Pokémon dałby radę ją pokonać?</string>
 			<string block_id="0" entry_id="23" table_id="211">Nie można wspinać się w towarzystwie.</string>-->
-			<string block_id="0" entry_id="20" table_id="211">\n<!--Rock Climb?--></string>
+			<string block_id="0" entry_id="20" table_id="211">Rock Climb?</string>
 			<string block_id="0" entry_id="21" table_id="211"> <!-- Used Rock Climb --></string>
 			<string block_id="0" entry_id="22" table_id="211">Brak Rock Climb!</string>
 			<string block_id="0" entry_id="23" table_id="211">Nie można użyć Rock Climb</string>
@@ -128,7 +128,7 @@
 			<!--<string block_id="0" entry_id="24" table_id="211">To wielki wodospad.\nCzy wspiąć się po nim za pomocą Waterfall? </string>
 			<string block_id="0" entry_id="25" table_id="211">{00} używa Waterfall.\n\n</string>
 			<string block_id="0" entry_id="26" table_id="211">Wielka ściana wody z wielkim hukiem\nblokuje przejście.</string>-->
-			<string block_id="0" entry_id="24" table_id="211">\n<!--Waterfall?--></string>
+			<string block_id="0" entry_id="24" table_id="211">Waterfall?</string>
 			<string block_id="0" entry_id="25" table_id="211"> <!-- Used Waterfall --></string>
 			<string block_id="0" entry_id="26" table_id="211">Brak Waterfall!</string>
 		<!-- Flash -->
@@ -11441,7 +11441,7 @@
 	<string block_id="0" entry_id="23" table_id="311">Jeszcze nie skończyliśmy. Dopiero zaczynamy!\nPokażemy ci, jak daleko potrafimy skoczyć!\n\n</string>
 	<string block_id="0" entry_id="24" table_id="311">Latanie jest dla mnie jak oddychanie!\nJedno i drugie, tak samo naturalne.\n\n</string>
 	<string block_id="0" entry_id="25" table_id="311">Nie da rady zmierzyć tej szybkości!\nLegendarny zespół, znany z szybkości!\n\n</string>
-	<string block_id="0" entry_id="26" table_id="311">W końcy jest tutaj! Ta niebywale uparta\nLiderka Sali! Ile ona ma siły?\n\n</string>
+	<string block_id="0" entry_id="26" table_id="311">W końcu jest tutaj! Ta niebywale uparta\nLiderka Sali! Ile ona ma siły?\n\n</string>
 	<string block_id="0" entry_id="27" table_id="311">Słodkość, siła, szybkość!\nDziewczyna z błyskiem w oku!\n\n</string>
 	<string block_id="0" entry_id="28" table_id="311">Tego kolesia... to boją się pewnie nawet\npioruny!\n\n</string>
 	<string block_id="0" entry_id="29" table_id="311">Biegnij! Na końcu - na mecie czeka\nprzyjaźń!\n\n</string>
@@ -16621,7 +16621,7 @@
 	<string block_id="0" entry_id="1" table_id="604">Mroczne drogi są niebezpieczne\nw nocy.\n\nAle w ciemną noc, morze jest jeszcze\nbardziej zdradzieckie!\n\nBez promieni światła z Latarni,\nżaden statek nie popłynie.</string>
 	<string block_id="0" entry_id="2" table_id="604">To, co tam masz - \nto Pokégear, tak?\n\nAle fajny.</string>
 	<string block_id="0" entry_id="3" table_id="604">Łoo, masz Pokémony!\nAle super.</string>
-	<string block_id="0" entry_id="4" table_id="604">Młody Trenerze!\nMorze jest słodkie!\n\nŚpiewaj ze mną!\nMorze jest błękitne!\n\nMorze jest słone!</string>
+	<string block_id="0" entry_id="4" table_id="604">Przypłynąłem tu z Kanto!\nChciałem odmienić swoje życie\n\nMoim marzeniem jest\ndołączyć do Teamu Kult\n\nOkazało się, że ich główna\nsiedziba jest w regionie Unova...</string>
 	<string block_id="0" entry_id="5" table_id="604">Olivine City\nPort Morskiego Powiewu</string>
 	<string block_id="0" entry_id="6" table_id="604">Port w Olivine\nPrzystań Promowa</string>
 	<string block_id="0" entry_id="7" table_id="604">Sala Pokémon w Olivine City\nLiderka: Jasmine\n\nDziewczyna ze Stalową Obroną</string>
@@ -16683,10 +16683,10 @@
 	<string block_id="0" entry_id="3" table_id="610">Wodne Pokémony żyją nie tylko\nw morzu.\n\nZnajdziesz je wszędzie, gdzie jest\n\nwoda.</string>
 	<string block_id="0" entry_id="4" table_id="610">Cooo? Nie lubisz wędkować?!\n\nNiezrozumiałe!</string>
 	<string block_id="0" entry_id="5" table_id="610">Jak tam się sprawy mają?\nBiorą?</string>
-	<string block_id="0" entry_id="0" table_id="611">Hej, ty!\nJak ci idzie trening Pokémonów?\n\nZauważyłeś, że czasami w górach\nna drodze leżą takie okrągłe\n\ngłazy...?\n\nMożesz je przesuwać przy użyciu\nukrytego ruchu Siła!\n\nGórale na Górze Moździerzowej zawsze\nmają jakieś na zbyciu, a przynajmniej\n\ntak słyszałem...</string>
-	<string block_id="0" entry_id="1" table_id="611">Gul... gul...\n\n...Khhkh!\nAck... zadławiłem się!\n\nFiuu! Było blisko.\nPowinienem lepiej przeżuwać jedzenie,\n\nzanim je połknę.</string>
-	<string block_id="0" entry_id="2" table_id="611">Kiedy tylko zawijam do Olivine, zawsze\nodwiedzam Kawiarenkę.\n\nWszystko co mają w menu czyni mnie\nsilniejszym. Nie mogę przestać jeść!</string>
-	<string block_id="0" entry_id="3" table_id="611">Menu w Kawiarence w Olivine jest\nzapchane pyszną strawą dla\n\nnapakowanych Żeglarzy!</string>
+	<string block_id="0" entry_id="0" table_id="611">Hej, ty!\nJak ci idzie trening Pokémonów?\n\nOdwiedź tutejszy gym. \n\nLiderką jest Jasmine. \nCzasem wpada tu na zupę.</string>
+	<string block_id="0" entry_id="1" table_id="611">Gul... gul...\n\nZajebista ta pomidorowa.\n\n Muszę zapytać o przepis Paciaciowatą!\n\nCo mówisz? Tajemnica?\n\nA jak ją uwiodę, to mi powie?</string>
+	<string block_id="0" entry_id="2" table_id="611">Kiedy tylko zawijam do Olivine, zawsze\nodwiedzam Kawiarenkę Kultowo.\n\nPomidorowa Paciaciakowej z menu czyni mnie\nsilniejszym. Nie mogę przestać jeść!</string>
+	<string block_id="0" entry_id="3" table_id="611">MisioKrzysio: Kawiarenka "Kultowo" jest\nwłasnością Paciaciowatej\n\nobecnie wyjechała na urlop \ndo Canavale City w Shinnoh. \n\nZabrała ze sobą swojego pokemona!\n\nCo serwujemy?\n\nW naszym menu znajdziesz zupe pomidorową!</string>
 	<string block_id="0" entry_id="4" table_id="611">Jasmine: Cześć!\n...!\n\nTe puste talerze przede mną wcale\nnie są moje...\n\nEee...\n\nTen, no, osoba przede mną dużo\nzjadła...\n\nNieważne. Chcesz wymienić się\nnumerami telefonu? </string>
 	<string block_id="0" entry_id="5" table_id="611">{00} zarejestrował Jasmine\nw Pokégearze.</string>
 	<string block_id="0" entry_id="6" table_id="611">Jasmine: Teraz możemy się zawsze\nskontaktować.\n\nChyba znajdę dla ciebie czas na walkę\nkoło południa w środy.\n\nBędę czekała na telefon!</string>
@@ -28820,7 +28820,7 @@
 	<string block_id="0" entry_id="427" table_id="804">Można stwierdzić, jak się czuje po\nsposobie, w jaki układa swoje uszy.\nKiedy się boi, zwija je.</string>
 	<string block_id="0" entry_id="428" table_id="804">Zrzuca sierść dwa razy w roku.\nZimowa sierść jest miękka i puszysta.</string>
 	<string block_id="0" entry_id="429" table_id="804">Jego odgłosy brzmią jak zaklęcia,\nby dręczyć wrogów. Pojawia się wtedy,\nkiedy nikt się go nie spodziewa.</string>
-	<string block_id="0" entry_id="430" table_id="804">Z natury jest bezlitowny. Mówi się,\nże nigdy nie zapomina błędów Murkrowów\nze swojego stada.</string>
+	<string block_id="0" entry_id="430" table_id="804">Z natury jest bezlitosny. Mówi się,\nże nigdy nie zapomina błędów Murkrowów\nze swojego stada.</string>
 	<string block_id="0" entry_id="431" table_id="804">Kiedy Glameow jest zadowolony, macha\nswoim ogonem niczym wstążką.</string>
 	<string block_id="0" entry_id="432" table_id="804">Bez skrupułów zajmie norę innego\nPokémona, jeśli tylko uzna ją za\nwystarczająco wygodną.</string>
 	<string block_id="0" entry_id="433" table_id="804">Emituje dźwięki o wysokiej częstotliwości,\nktórych nie słyszą ludzie. Kiedy zacznie,\nmoże to robić przez bardzo długi czas.</string>
