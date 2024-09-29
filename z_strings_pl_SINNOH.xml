@@ -1735,7 +1735,7 @@
     <string block_id="0" entry_id="5" table_id="139">Ups, twój plecak jest całkiem pełny!\nDam ci to później.</string>
     <string block_id="0" entry_id="6" table_id="139">Świetna robota!\nByłby z ciebie genialny Maniak Robali!</string>
     <string block_id="0" entry_id="0" table_id="140">Wszyscy nazywają mnie Maniakiem Ruchów.\nWolę jednak jak nazywa się mnie\n\nNauczycielem Ruchów.\n\nZnam na pamięć każdy ruch, którego\nmoże nauczyć się twój Pokémon poprzez\n\nwzrost poziomu i jestem w stanie\n\nnauczyć je twojego Pokémona.\n\nZ przyjemnością zrobię to dla ciebie\nw zamian za Sercową śuskę.\n\n</string>
-    <string block_id="0" entry_id="1" table_id="140">Och! No proszę! Najprawdziwiejsza\nSercowa śuska!\n\nNiech zgadnę, chcesz żebym nauczył\ntwojego Pokémona jakiegoś ruchu?\n\n</string>
+    <string block_id="0" entry_id="1" table_id="140">Och! No proszę! Najprawdziwiejsza\nSercowa łuska!\n\nNiech zgadnę, chcesz żebym nauczył\ntwojego Pokémona jakiegoś ruchu?\n\n</string>
     <string block_id="0" entry_id="2" table_id="140">Jeśli któryś z twoich Pokémonów uzna,\nże chce poznać nowy ruch, wróć do mnie\n\nz Sercową śuską.</string>
     <string block_id="0" entry_id="3" table_id="140">Który Pokémon potrzebuje szkolenia?\n\n</string>
     <string block_id="0" entry_id="4" table_id="140">Który ruch miałby poznać?\n\n</string>
@@ -4435,12 +4435,12 @@
     <string block_id="0" entry_id="9" table_id="386">Ostry Kamień</string>
     <string block_id="0" entry_id="10" table_id="386">Czarny Kamyk</string>
     <string block_id="0" entry_id="11" table_id="386">Mini Kamyk</string>
-    <string block_id="0" entry_id="12" table_id="386">Różowa śuska</string>
-    <string block_id="0" entry_id="13" table_id="386">Niebieska śuska</string>
-    <string block_id="0" entry_id="14" table_id="386">Zielona śuska</string>
-    <string block_id="0" entry_id="15" table_id="386">Fioletowa śuska</string>
-    <string block_id="0" entry_id="16" table_id="386">Duża śuska</string>
-    <string block_id="0" entry_id="17" table_id="386">Wąska śuska</string>
+    <string block_id="0" entry_id="12" table_id="386">Różowa łuska</string>
+    <string block_id="0" entry_id="13" table_id="386">Niebieska łuska</string>
+    <string block_id="0" entry_id="14" table_id="386">Zielona łuska</string>
+    <string block_id="0" entry_id="15" table_id="386">Fioletowa łuska</string>
+    <string block_id="0" entry_id="16" table_id="386">Duża łuska</string>
+    <string block_id="0" entry_id="17" table_id="386">Wąska łuska</string>
     <string block_id="0" entry_id="18" table_id="386">Niebieskie Pióro</string>
     <string block_id="0" entry_id="19" table_id="386">Czerwone Pióro</string>
     <string block_id="0" entry_id="20" table_id="386">Żółte Pióro</string>
@@ -8063,13 +8063,13 @@
     <string block_id="0" entry_id="1" table_id="579">Ten obszar zawierał wiele Pokémonów\npopularnych za dawnych czasów.\n\nPodobno dawniej znajdowały się tu\nwielkie rancza Pokémonów.</string>
     <string block_id="0" entry_id="0" table_id="580">Och?\nWitaj!\n\nZapewne jesteś tu, bo widziałeś notatkę\no tym, że szukamy pracowników, tak?\n\nCzy to Pokédex?\nZnasz w takim razie zapewne Profesora\n\nRowana!\n\nJesteś ekspertem od Pokémonów, którego\nszukamy!\n\n</string>
     <string block_id="0" entry_id="1" table_id="580">Proszę bardzo!\nŚwietnie!\n\nMusimy wyrobić się z tym na czas.\nOto twoje zadanie.\n\n</string>
-    <string block_id="0" entry_id="2" table_id="580">{00}.\nPrzynieś mi jednego.\n\nMusisz to zrobić dzisiaj, bo inaczej\nnie zdążymy z naszym głównym artykułem.\n\nZapłacę ci w Sercowych śuskach oraz\nPoké Ballach.</string>
+    <string block_id="0" entry_id="2" table_id="580">{00}.\nPrzynieś mi jednego.\n\nMusisz to zrobić dzisiaj, bo inaczej\nnie zdążymy z naszym głównym artykułem.\n\nZapłacę ci w Sercowych łuskach oraz\nPoké Ballach.</string>
     <string block_id="0" entry_id="3" table_id="580">Jak leci? Czy masz już Pokémona,\nktórego potrzebujemy?\n\n</string>
     <string block_id="0" entry_id="4" table_id="580">Oh! Ohh! Ohhh!\nTo właśnie on! {00}!\n\nDzięki!\nNiech mu się przyjrzę!\n\n...Rozumiem, hmhm...\nDobrze, dobrze... Już wiem!\n\nDziękuję!\nTeraz będę w stanie napisać świetny\n\nartykuł!\n\nOto nagroda za fatygę.\nTo niewiele, ale i tak dziękuję!\n\n</string>
     <string block_id="0" entry_id="5" table_id="580">Naprawdę się dla nas poświęciłeś!\nMam nadzieję, że jutro znów nam\n\npomożesz!</string>
     <string block_id="0" entry_id="6" table_id="580">Ups! Cóż to?\nTwój Plecak jest pełny aż po brzegi.\n\nPopilnuję ich! Wróć po nie!\n\n</string>
     <string block_id="0" entry_id="7" table_id="580">Och, tu jesteś! Oto nagroda za twoje\nostatnie zadanie!\n\nTo niewiele, ale i tak dziękuję!\n\n</string>
-    <string block_id="0" entry_id="8" table_id="580">W czym problem? Wciąż nie złapałeś\n{00}, którego potrzebujemy?\n\nLiczymy, że ci się uda!\n\nZapłacę ci w Sercowych śuskach i\nPoké Ballach, w porządku?\n\nPrzynieś nam {00} przed\npółnocą!</string>
+    <string block_id="0" entry_id="8" table_id="580">W czym problem? Wciąż nie złapałeś\n{00}, którego potrzebujemy?\n\nLiczymy, że ci się uda!\n\nZapłacę ci w Sercowych łuskach i\nPoké Ballach, w porządku?\n\nPrzynieś nam {00} przed\npółnocą!</string>
     <string block_id="0" entry_id="9" table_id="580">Już, już! Nie udało ci się przynieść\nPokémona, o którego cię prosiłem...\n\nAle takie rzeczy się zdarzają!\nPo prostu spróbuj jeszcze raz!</string>
     <string block_id="0" entry_id="10" table_id="580">OK! Napiszę na podstawie tego świetną\nhistorię!\n\nOch, właśnie! Jutro będę dla ciebie\nmieć kolejne zadanie!</string>
     <string block_id="0" entry_id="11" table_id="580">Gazeta Sinnoh ma dość skromny nakład,\nale mamy wielu zagorzałych fanów.\n\nDrukujemy ją właśnie tutaj!</string>
