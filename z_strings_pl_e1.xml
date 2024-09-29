@@ -3228,7 +3228,7 @@
     <string id="100032">Pigułka, która zmienia zdolność {STRING_0}a przy użyciu.\n\nZnika po użyciu.</string>
     <string id="100033">Spooky Candy</string>
     <string id="100034">Upiornie wyglądająca przekąska.</string>
-    <string id="100035">Goodie Bag</string>
+    <string id="100035">Goodie Bag (2023)</string>
     <string id="100036">Strasznie wyglądająca torebka prezentowa, zawierające nieznane nagrody.\n\nMoże zawierać ekskluzywne przedmioty z Halloween 2015. Użyj by otworzyć.</string>
     <string id="100037">Bad Candy</string>
     <string id="100038">--</string>
@@ -3272,7 +3272,7 @@
     <string id="100076">Ozdobnie wyglądający prezent\nmoże zawierać nieznaną nagrodę.\n\nMoże zawierać eksklusywne przedmioty z Bożego Narodzenia 2017.\nUżyj by otworzyć.</string>
     <string id="100077">Goodie Bag (2016)</string>
     <string id="100078">Strasznie wyglądająca torba prezentowa\nzawiera nieznaną nagrodę.\n\nMoże zawierać eksklusywne przedmioty z Halloween 2018.\nUżyj by otworzyć.</string>
-    <string id="100079">Pumpking Goodie Bag (2022)</string>
+    <string id="100079">Pumpking Goodie Bag (2023)</string>
     <string id="100080">Special Candy</string>
     <string id="100081">Wymyślnie wyglądająca przekąska.</string>
     <string id="100082">Xmas Present (2017)</string>
@@ -3605,6 +3605,12 @@
     <string id="101706">Zioło, które modyfikuje Naturę {STRING_0}'a. Można go używać tylko z niektórymi legendarnymi {STRING_0}'a i {STRING_150201}.\n\nZnika po użyciu.</string>
     <string id="101707">Rainbow Quill</string>
     <string id="101708">Specjalne pióro, którego można użyć do zmiany IV niektórych {STRING_0}'ao 1.\n\nZużywane po użyciu.</string>
+
+    <string id="101711">Goodie Bag (2022)</string>
+    <string id="101713">Przerażająco wyglądająca torba z gadżetami, która zawiera nieznaną nagrodę.\n\nMoże zawierać ekskluzywne przedmioty na Halloween 2023. Użyj, aby otworzyć.</string>
+    <string id="101712">Pumpking Goodie Bag (2022)</string>
+    <string id="101713">Przerażająco wyglądająca torba z gadżetami, która zawiera nieznaną nagrodę.\n\nMoże zawierać ekskluzywne przedmioty na Halloween 2023. Użyj, aby otworzyć.</string>
+
     <string id="110000">-----</string>
     <string id="110001">Pound</string>
     <string id="110002">Karate Chop</string>
