@@ -4085,7 +4085,8 @@
     <string block_id="0" entry_id="15" table_id="282">Co robią Pokémony którymi\nsię wymieniłem?\n\nO czym myślą teraz ludzie, którzy się ze mną\nwymienili?\n\nMyślenie o tych rzeczach sprawia,\nże jestem szczęśliwy!</string>
     <string block_id="0" entry_id="0" table_id="283">{00} otrzymuje {01}!</string>
     <string block_id="0" entry_id="1" table_id="283">{00} otrzymuje {01}!</string>
-    <string block_id="0" entry_id="3" table_id="283">{00} otrzymuje\n{01} {02}!</string>
+    <!-- do sprawdzenia dublowane HM i TM - to chyba to miejsce {00} otrzymuje\n{01} {02}!-->
+    <string block_id="0" entry_id="3" table_id="283">{00} otrzymuje\n{01}!</string>
     <string block_id="0" entry_id="4" table_id="283">{00} znajduje {01}!</string>
     <string block_id="0" entry_id="5" table_id="283">{00} znajduje {01}!</string>
     <string block_id="0" entry_id="6" table_id="283">{00} znajduje\n{01} {02}!</string>
