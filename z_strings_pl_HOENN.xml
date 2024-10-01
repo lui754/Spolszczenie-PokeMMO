@@ -79,7 +79,7 @@
 	<!-- Hoenn - Nurse Mom -->
 		<!--<string id="270499080">MAMA: Jak się masz, {01}?\nWyglądasz na trochę zmęczonego.\n\nMyślę, że powinieneś trochę odpocząć.</string>
 		<string id="270499164">MAMA: Uważaj, kochanie!</string>-->
-		<string id="270499080">Uleczę twoje Pokemony?</string>
+		<string id="270499080">Uleczyć Pokemony?</string>
 		<string id="270499164">\n<!-- Goodbye --></string>
 	<!-- Hoenn Vendors -->
 		<!--<string id="271002145">Witamy!\n\nW czym mogę ci służyć?</string>

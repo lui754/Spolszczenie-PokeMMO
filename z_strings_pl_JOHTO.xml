@@ -16621,7 +16621,7 @@
 	<string block_id="0" entry_id="1" table_id="604">Mroczne drogi są niebezpieczne\nw nocy.\n\nAle w ciemną noc, morze jest jeszcze\nbardziej zdradzieckie!\n\nBez promieni światła z Latarni,\nżaden statek nie popłynie.</string>
 	<string block_id="0" entry_id="2" table_id="604">To, co tam masz - \nto Pokégear, tak?\n\nAle fajny.</string>
 	<string block_id="0" entry_id="3" table_id="604">Łoo, masz Pokémony!\nAle super.</string>
-	<string block_id="0" entry_id="4" table_id="604">Przypłynąłem tu z Kanto!\nChciałem odmienić swoje życie\n\nMoim marzeniem jest\ndołączyć do Teamu Kult\n\nOkazało się, że ich główna\nsiedziba jest w regionie Unova...</string>
+	<string block_id="0" entry_id="4" table_id="604">Przypłynąłem tu z Kanto!\nChciałem odmienić swoje życie\n\nMoim marzeniem jest\ndołączyć do Teamu Kult\n\nOkazało się, że ich główna\nsiedziba jest w Moomoo Farm...</string>
 	<string block_id="0" entry_id="5" table_id="604">Olivine City\nPort Morskiego Powiewu</string>
 	<string block_id="0" entry_id="6" table_id="604">Port w Olivine\nPrzystań Promowa</string>
 	<string block_id="0" entry_id="7" table_id="604">Sala Pokémon w Olivine City\nLiderka: Jasmine\n\nDziewczyna ze Stalową Obroną</string>
@@ -16684,9 +16684,9 @@
 	<string block_id="0" entry_id="4" table_id="610">Cooo? Nie lubisz wędkować?!\n\nNiezrozumiałe!</string>
 	<string block_id="0" entry_id="5" table_id="610">Jak tam się sprawy mają?\nBiorą?</string>
 	<string block_id="0" entry_id="0" table_id="611">Hej, ty!\nJak ci idzie trening Pokémonów?\n\nOdwiedź tutejszy gym. \n\nLiderką jest Jasmine. \nCzasem wpada tu na zupę.</string>
-	<string block_id="0" entry_id="1" table_id="611">Gul... gul...\n\nZajebista ta pomidorowa.\n\n Muszę zapytać o przepis Paciaciowatą!\n\nCo mówisz? Tajemnica?\n\nA jak ją uwiodę, to mi powie?</string>
+	<string block_id="0" entry_id="1" table_id="611">Gul... gul...\n\nZajebista ta pomidorowa.\n\n Muszę zapytać o przepis Paciaciowatą!</string>
 	<string block_id="0" entry_id="2" table_id="611">Kiedy tylko zawijam do Olivine, zawsze\nodwiedzam Kawiarenkę Kultowo.\n\nPomidorowa Paciaciakowej z menu czyni mnie\nsilniejszym. Nie mogę przestać jeść!</string>
-	<string block_id="0" entry_id="3" table_id="611">MisioKrzysio: Kawiarenka "Kultowo" jest\nwłasnością Paciaciowatej\n\nobecnie wyjechała na urlop \ndo Canavale City w Shinnoh. \n\nZabrała ze sobą swojego pokemona!\n\nCo serwujemy?\n\nW naszym menu znajdziesz zupe pomidorową!</string>
+	<string block_id="0" entry_id="3" table_id="611">MisioKrzysio: Kawiarenka "Kultowo", dam \njej 5 gwiazdek na Google Maps.</string>
 	<string block_id="0" entry_id="4" table_id="611">Jasmine: Cześć!\n...!\n\nTe puste talerze przede mną wcale\nnie są moje...\n\nEee...\n\nTen, no, osoba przede mną dużo\nzjadła...\n\nNieważne. Chcesz wymienić się\nnumerami telefonu? </string>
 	<string block_id="0" entry_id="5" table_id="611">{00} zarejestrował Jasmine\nw Pokégearze.</string>
 	<string block_id="0" entry_id="6" table_id="611">Jasmine: Teraz możemy się zawsze\nskontaktować.\n\nChyba znajdę dla ciebie czas na walkę\nkoło południa w środy.\n\nBędę czekała na telefon!</string>
